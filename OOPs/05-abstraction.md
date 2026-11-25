@@ -1,5 +1,5 @@
 # 5. Abstraction
-
+ 
 ## Definition
 Abstraction exposes the essential operations of a component while hiding the details of how those operations are carried out.
 
