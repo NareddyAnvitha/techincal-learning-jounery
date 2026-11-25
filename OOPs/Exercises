@@ -1,1 +1,29 @@
+# OOPS Practice Exercises
+
+Try these without copying the notes. For each exercise, write a short explanation and test your code.
+
+## Beginner
+1. Create a `Student` class with name, roll number, and a method to print details.
+2. Create a `Rectangle` class with constructors and an `area()` method.
+3. Demonstrate constructor overloading in a `Book` class.
+4. Create a `BankAccount` class with a private balance and validated deposit/withdraw methods.
+
+## Intermediate
+5. Create `Animal`, `Dog`, and `Cat` classes and demonstrate overriding.
+6. Create a `PaymentMethod` interface with UPI and card implementations.
+7. Demonstrate multilevel and hierarchical inheritance.
+8. Model a `Library` that contains `Book` objects. Decide whether the relationship is association, aggregation, or composition and explain why.
+9. Create a `Shape` abstract class with `Circle` and `Rectangle` subclasses.
+
+## Challenge
+10. Design a notification service using an interface so email, SMS, and push notifications can be added without changing the caller.
+11. Refactor a class with many responsibilities into smaller cohesive classes.
+12. Explain when composition is preferable to inheritance using a Java example.
+
+## Self-review checklist
+- Are fields private when direct public access is not needed?
+- Does each class have a clear responsibility?
+- Are invalid states prevented?
+- Is inheritance modeling a genuine substitutable relationship?
+- Can behavior be tested independently?
 
