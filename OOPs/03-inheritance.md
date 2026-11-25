@@ -1,6 +1,6 @@
 # 3. Inheritance
 
-## Definition
+## Definition 
 Inheritance allows a class (subclass/child) to derive accessible fields and methods from another class (superclass/parent). In Java, a class uses `extends`.
 
 It represents an **is-a** relationship: a `Dog` is an `Animal`.
