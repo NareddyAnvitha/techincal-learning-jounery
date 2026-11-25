@@ -1,0 +1,40 @@
+
+abstract class Vehicle {
+
+    abstract void start();
+
+    void stop() {
+        System.out.println("Vehicle stopped");
+    }
+}
+
+class Car extends Vehicle {
+
+    @Override
+    void start() {
+        System.out.println("Car starts using a key");
+    }
+}
+
+class Bike extends Vehicle {
+
+    @Override
+    void start() {
+        System.out.println("Bike starts using a button");
+    }
+}
+
+public class AbstractionExample {
+
+    public static void main(String[] args) {
+
+        Vehicle car = new Car();
+        Vehicle bike = new Bike();
+
+        car.start();
+        car.stop();
+
+        bike.start();
+        bike.stop();
+    }
+}
