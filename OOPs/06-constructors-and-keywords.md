@@ -1,4 +1,4 @@
-# 6. Constructors and Important Java Keywords
+# 6. Constructors and Important Java Keywords 
 
 ## Constructors
 A constructor initializes a new object. It has the same name as the class and no return type.
