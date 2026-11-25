@@ -1,6 +1,6 @@
 # 1. OOPS Fundamentals
 
-## What is OOPS?
+## What is OOPS? 
 Object-Oriented Programming (OOPS) organizes a program into objects. An object has:
 - **State:** data represented by fields (for example, a bank account's balance).
 - **Behavior:** operations represented by methods (for example, deposit or withdraw).
