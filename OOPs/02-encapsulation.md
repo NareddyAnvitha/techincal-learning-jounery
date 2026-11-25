@@ -1,6 +1,6 @@
 # 2. Encapsulation
 
-## Definition
+## Definition 
 Encapsulation bundles data and the methods that operate on it inside a class, while controlling how callers access or modify that data.
 
 In Java, it is commonly implemented using:
