@@ -2,7 +2,7 @@
 
 Object-oriented systems use relationships to describe how objects collaborate.
 
-## Association
+## Association 
 A general relationship where one object knows about or uses another. Example: a `Teacher` teaches a `Student`. Either object may exist independently.
 
 ## Aggregation
