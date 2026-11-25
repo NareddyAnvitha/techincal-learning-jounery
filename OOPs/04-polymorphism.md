@@ -1,6 +1,6 @@
 # 4. Polymorphism
 
-## Definition
+## Definition 
 Polymorphism means that the same operation or parent-type reference can produce different behavior depending on the types and implementations involved.
 
 Java commonly demonstrates two forms:
